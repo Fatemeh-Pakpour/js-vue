@@ -18,9 +18,9 @@ const appElement = new Vue({
 const book = new Vue ({
     el: "#book" ,
     data: {
-        title: "alchemist"
-        author:
-        summary:
+        title: "alchemist",
+        author: "Pol",
+        summary:"NO NEED"
     }
 
 })
